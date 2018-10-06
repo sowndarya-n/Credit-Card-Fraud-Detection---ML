@@ -6,7 +6,7 @@ In this Project we compare the results genereated by Isolation Forest Algorithm 
 The datasets contains transactions made by credit cards in September 2013 by european cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.The dataset used in the project is obtained from "Kaggle" which is an open source credit card database provider. 
 
 # Packages:
-(i)Sys(System-Specific parameters and functions):
+(i)Sys (System-Specific parameters and functions):
 This module provides accesss to some variables used or maintained by the interpreter and ti functions that interact strongly with the interpreter.
 
 
@@ -25,10 +25,10 @@ This is a data visualization library based on matplotliib. It provides an interf
 (vi) Scipy:
 It is used for scientific & technical computations. It contains modules for optimization, linear algebra, intepolaton, image processing.
 
-(vii) sklearn:
+(vii) Sklearn:
 This is the simplest and efficent package for data mining and analysis.
 
-Step 1- Building and Setting up the dataset: 
+# Step 1- Building and Setting up the dataset: 
 
 (i) Import all the necessary packages.
 
@@ -44,7 +44,7 @@ Step 1- Building and Setting up the dataset:
 
 (vii) Format and filter the dataset.
 
-Step 2: Applying Algorithms to the dataset.
+# Step 2: Applying Algorithms to the dataset.
 
 Now that we have processed our data, we can begin deploying our machine learning algorithms. We will use the following techniques:
 
