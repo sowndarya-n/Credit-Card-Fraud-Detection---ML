@@ -3,7 +3,7 @@ This is the source code for the Credit Card Fraud Detection Project in Machine L
 
 In this Project we compare the results genereated by Isolation Forest Algorithm and Local Outlier Factor.
 
-The datasets contains transactions made by credit cards in September 2013 by european cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.The dataset used in the project is obtained from "Kaggle" which is an open source credit card database provider. 
+The datasets contains transactions made by credit cards in September 2013 by European cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.The dataset used in the project is obtained from "Kaggle" which is an open source database provider. 
 
 # Packages:
 (i)Sys (System-Specific parameters and functions):
